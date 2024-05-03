@@ -9,12 +9,14 @@
 
 This text is in a README.md file! Read me! Read me! Read *(System Audio: Microphone volume set to zero.)*
 
+I would like to show you more about me at this profile page, but however I decided to being more privated, making myself comfortable.
+
 > Currently is a cat purring around...
 
 - A cat.
 - Chinese Mainland.
 - A cat.
-- Available languages: zh_CN / en_US~~ / zh_TW~~
+- Available languages: zh_CN / en_US ~~/ zh_TW~~
 - Programmer Cat / Developer Cat / Coder Cat
 - A cat.
 - A gamer cat.
@@ -59,7 +61,7 @@ More languages learning...
 
 ### Computer / Windows Pad
 
-![Apple MacBook Pro (13-inch, 2020, Four Thunderbolt 3 ports) (Intel-based))](https://img.shields.io/badge/Apple%20MacBook%20Pro%20(13-inch,%202020,%20Four%20Thunderbolt%203%20ports)%20(Intel-based)-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
+![Apple MacBook Pro (13-inch, 2020, Four Thunderbolt 3 ports) (Intel-based)](https://img.shields.io/badge/Apple%20MacBook%20Pro%20(Intel)-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
 ![ramos i8pro](https://img.shields.io/badge/ramos%20i8pro-0071c5?style=flat-square&logo=intel&logoColor=ffffff)
 
 ## End of the README
