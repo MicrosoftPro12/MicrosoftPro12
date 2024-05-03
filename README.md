@@ -24,7 +24,7 @@ I would like to show you more about me at this profile page, but however I decid
 - Like tweaking operating systems.
 - Flashing phones...
 
-> Wants to be more lovely...?
+> *Wants to be more lovely...?*
 
 ## 🛠️ Available Programming Languages
 
