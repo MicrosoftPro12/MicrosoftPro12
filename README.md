@@ -1,5 +1,5 @@
 
-# MicrosoftPro12 (Currently have no alternative usernames. (Maybe))
+# MicrosoftPro12 (A.K.A. 56768_01234/567890123401234/56789 01234 etc...) (Currently have no more alternative usernames. (Maybe...?))
 
 ### Hi there 👋
 
@@ -23,8 +23,11 @@ I would like to show you more about me at this profile page, but however I decid
 - Like collecting electronic devices.
 - Like tweaking operating systems.
 - Flashing phones...
+- Enjoy having breaks...
+- DO NOT GIVE ME ERRORS PLEASE!!!
+- NVM warnings, it just works.
 
-> *Wants to be more lovely...?*
+> *Wants to be more lovely/have more cuteness...?*
 
 ## 🛠️ Available Programming Languages
 
@@ -67,4 +70,3 @@ More languages learning...
 ## End of the README
 
 > This PR LGTM, merged.
-
