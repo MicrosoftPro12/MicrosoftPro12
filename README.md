@@ -49,7 +49,7 @@ More languages learning...
 
 ## 💻 Working Environment
 
-![Windows 11 Pro for Workstation 23H2](https://img.shields.io/badge/Windows%2011%20Pro%20for%20Workstation%2023H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
+![Windows 11 Pro for Workstations 23H2](https://img.shields.io/badge/Windows%2011%20Pro%20for%20Workstations%2023H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![macOS Ventura 13.6.6 (22G630)](https://img.shields.io/badge/macOS%20Ventura%2013.6.6%20(22G630)-000000?style=flat-square&logo=macOS&logoColor=ffffff)
 ![Android 6 Marshmallow](https://img.shields.io/badge/Android%206%20Marshmallow-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 
