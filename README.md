@@ -49,9 +49,18 @@ More languages learning...
 
 ## 💻 Working Environment
 
-![Windows 11 Pro for Workstations 23H2](https://img.shields.io/badge/Windows%2011%20Pro%20for%20Workstations%2023H2-00adef?style=flat-square&logo=windows&logoColor=ffffff)
-![macOS Ventura 13.6.6 (22G630)](https://img.shields.io/badge/macOS%20Ventura%2013.6.6%20(22G630)-000000?style=flat-square&logo=macOS&logoColor=ffffff)
+![Windows 11 Pro for Workstations 23H2](https://img.shields.io/badge/Windows%2011%20Pro%20for%20Workstations%2023H2-00adef?style=flat-square&logo=windows11&logoColor=ffffff)
+![macOS Ventura 13.6.9 (22G830)](https://img.shields.io/badge/macOS%20Ventura%2013.6.9%20(22G830)-000000?style=flat-square&logo=macOS&logoColor=ffffff)
+![iOS 17.6.1 (21G101)](https://img.shields.io/badge/iOS%2017.6.1%20(21G101)-000000?style=flat-square&logo=iOS&logoColor=ffffff)
+![Android 14 Upside Down Cake](https://img.shields.io/badge/Android%2014%20Upside%20Down%20Cake-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
+![Android 7 Nougat](https://img.shields.io/badge/Android%207%20Nougat-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 ![Android 6 Marshmallow](https://img.shields.io/badge/Android%206%20Marshmallow-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
+
+### 🗑️ Deprecated Working Environment
+
+>These categories were kept for historical purposes. They are no longer being used since I have newer devices now.
+
+Nothing here.
 
 > Coding software 🛠️: **Xcode** from Apple, **Visual Studio** from Microsoft, **Visual Studio Code** from Microsoft, **Dev-C++** from Bloodshed
 
@@ -59,7 +68,10 @@ More languages learning...
 
 ### Phone / Non-Windows Pad
 
-![Xiaomi MI 4LTE](https://img.shields.io/badge/Xiaomi%20MI%204LTE-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Xiaomi MI 13](https://img.shields.io/badge/Xiaomi%20MI%2013-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Apple iPhone XS Max](https://img.shields.io/badge/Apple%20iPhone%20XS%20Max-000000?style=flat-square&logo=apple&logoColor=ffffff)
+![Meizu M5s](https://img.shields.io/badge/Meizu%20M5s-00adef?style=flat-square&logo=meizu&logoColor=ffffff)
+![Meizu M5 Note](https://img.shields.io/badge/Meizu%20M5%20Note-00adef?style=flat-square&logo=meizu&logoColor=ffffff)
 
 
 ### Computer / Windows Pad
